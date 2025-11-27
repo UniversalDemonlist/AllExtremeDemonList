@@ -9,7 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=0msi0P_yASg",
+            "percent": 100,
+            "hz": 60            
         }
     ]
 }
