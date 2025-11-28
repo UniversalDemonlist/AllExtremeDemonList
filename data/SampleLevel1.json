@@ -9,6 +9,12 @@
     "password": "Not Copyable",
     "records": [
         {
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=pWghxYp8XHE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Zoink",
             "link": "https://www.youtube.com/watch?v=4HIDQPlRP6k",
             "percent": 99,
