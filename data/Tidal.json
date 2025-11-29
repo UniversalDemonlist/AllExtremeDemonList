@@ -1,18 +1,15 @@
 {
-    "id": 116732736,
+    "id": 86407629,
     "name": "Tidal Wave",
     "author": "Onilink",
     "creators": ["Onilink"],
-    "verifier": "wPopoff",
-    "verification": "https://m.youtube.com/watch?v=1-ihSeRCpds",
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/9fsZ014qB3s",
     "percentToQualify": 72,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Zoink V1",
-            "link": "https://youtu.be/9fsZ014qB3s",
-            "percent": 100,
-            "hz": 360 
+
         }
     ]
 }
